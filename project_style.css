@@ -1,0 +1,18 @@
+html * {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+#flex-container {
+    display: flex;
+    width: 75%;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+a {
+    height: 200px;
+    width: 200px;
+    margin:10px;
+    background-color:rgb(169, 252, 113);
+}
